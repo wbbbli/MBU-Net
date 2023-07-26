@@ -11,7 +11,7 @@ This work is a click-based interactive segmentation codebase developed on top of
   <img src="./assets/img/img1.png" alt="drawing" width="80%"/>
 </p>
 <p align="center">
-  <img src="./assets/img/mean-iou.png" alt="drawing" width="80%"/>
+  <img src="./assets/img/mean-iou.png" alt="drawing" width="90%"/>
 </p>
 
 ## Training and evaluation models
