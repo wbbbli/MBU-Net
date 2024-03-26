@@ -1,5 +1,5 @@
 from isegm.utils.exp_imports.default import *
-from isegm.model.mymodel.TB import MutiModel
+from isegm.model.mymodel.CTB import MutiModel
 from isegm.engine.TB_trainer import ISTrainer
 MODEL_NAME = 'TBNet'
 

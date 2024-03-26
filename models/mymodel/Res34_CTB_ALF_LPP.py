@@ -1,5 +1,5 @@
 from isegm.utils.exp_imports.default import *
-from isegm.model.mymodel.TBALID import MutiModel
+from isegm.model.mymodel.CTB_ALF_LPP import MutiModel
 from isegm.engine.TBAL_trainer import ISTrainer
 MODEL_NAME = 'TBALIDNet'
 from isegm.model.point_flow.model import Bottleneck

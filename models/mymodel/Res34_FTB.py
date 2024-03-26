@@ -1,5 +1,5 @@
 from isegm.utils.exp_imports.default import *
-from isegm.model.mymodel.DBNet import MutiModel
+from isegm.model.mymodel.FTB import MutiModel
 from isegm.engine.DB_trainer import ISTrainer
 
 MODEL_NAME = 'DBNet'
